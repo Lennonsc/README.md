@@ -208,6 +208,12 @@ https://www.youtube.com/watch?v=F5GxH8A4zEo&t=11s
 
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
+# Autores 
+Carlos Augusto Ribeiro RA 1292225062 
+João Pedro de Oliveira RA 1292226374 
+Lennon Schwonke RA 1292224435 
+Leonardo Kwiecinski RA 1292225730
+
 # Agradecimentos
 
 Agradecimento especial aos professores!
