@@ -10,7 +10,7 @@ Nosso aplicativo é a companhia perfeita para os entusiastas da Fórmula 1 que d
 
 Não se trata apenas dos finais de semana de corrida; nossos pacotes abrangem atividades para explorar os pontos turísticos e culturais das cidades-sede dos GPs. Explore as riquezas das cidades, descubra a culinária local, visite monumentos icônicos e mergulhe na atmosfera única de cada local.
 
-Oferecemos informações meteorológicas em tempo real, notícias atualizadas da F1, roteiros personalizados e suporte ao cliente 24/7. Com nosso aplicativo, sua experiência na Fórmula 1 não se limita à pista, mas também se estende às maravilhas das cidades que você visita.
+Oferecemos informações meteorológicas em tempo real,informaçoes sobre pontos turisticos e roteiros personalizados. Com nosso aplicativo, sua experiência na Fórmula 1 não se limita à pista, mas também se estende às maravilhas das cidades que você visita.
 
 Prepare-se para uma experiência única que combina o emocionante mundo da velocidade da F1 com a exploração das cidades-sede. Deixe-nos ser seu guia nessa aventura emocionante, onde cada corrida é uma oportunidade para descobrir novos horizontes. Comece sua jornada agora e aproveite ao máximo sua experiência!
 
