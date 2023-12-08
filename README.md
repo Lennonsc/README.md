@@ -6,9 +6,9 @@ Apresentação A3 - Usabilidade, Desenvolvimento Web, Mobile e Jogos
 
 # Sobre o Projeto
 
-Nosso aplicativo é a companhia perfeita para os entusiastas da Fórmula 1 que desejam vivenciar as corridas de 2024 de forma inesquecível. Além de oferecer um pacote completo de serviços, desde a compra de passagens aéreas, hospedagem de luxo, ingressos exclusivos e credenciais, até emocionantes passeios turísticos e aluguel de carros, também temos uma abordagem única para enriquecer sua experiência.
+Nosso aplicativo é a companhia perfeita para os entusiastas da Fórmula 1 que desejam vivenciar as corridas de 2024 de forma inesquecível. Além de oferecer um pacote completo de serviços, desde a compra de passagens aéreas, hospedagem de luxo, ingressos exclusivos e credenciais, até emocionantes passeios turísticos. Também temos uma abordagem única para enriquecer sua experiência.
 
-Não se trata apenas dos finais de semana de corrida; nossos pacotes abrangem atividades para explorar os pontos turísticos e culturais das cidades-sede dos GPs. Explore as riquezas das cidades, descubra a culinária local, visite monumentos icônicos e mergulhe na atmosfera única de cada local.
+Não se trata apenas dos finais de semana de corrida, nossos pacotes abrangem atividades para explorar os pontos turísticos e culturais das cidades-sede dos GPs. Explore as riquezas das cidades, descubra a culinária local, visite monumentos icônicos e mergulhe na atmosfera única de cada região.
 
 Oferecemos informações meteorológicas em tempo real,informaçoes sobre pontos turisticos e roteiros personalizados. Com nosso aplicativo, sua experiência na Fórmula 1 não se limita à pista, mas também se estende às maravilhas das cidades que você visita.
 
